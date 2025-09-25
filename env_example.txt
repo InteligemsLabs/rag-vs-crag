@@ -1,0 +1,6 @@
+# Copy this to .env and add your actual API keys
+
+OPENAI_API_KEY=your_openai_api_key_here          # For embeddings
+OPENROUTER_API_KEY=your_openrouter_api_key_here  # For chat completions
+TAVILY_API_KEY=your_tavily_api_key_here
+
